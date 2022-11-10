@@ -53,60 +53,84 @@ nav .onglets a{
 }
 
 .button1 {
-    background: center / cover url(ze.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/ze.jpg) rgba(0, 0, 0, 0.4);
 }
 
 .button2 {
-    background: center / cover url(Dollarphotoclub_74991910.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/Dollarphotoclub_74991910.jpg) rgba(0, 0, 0, 0.4);
 }
 
 .button3 {
-    background: center / cover url(azaz.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/azaz.jpg) rgba(0, 0, 0, 0.4);
 }
 
 .button4 {
-    background: center / cover url(azazza.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/azazza.jpg) rgba(0, 0, 0, 0.4);
 }
 
 .button5 {
-    background: center / cover url(04bb_1406f.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/04bb_1406f.jpg) rgba(0, 0, 0, 0.4);
 }
 .button6 {
-    background: center / cover url(101538_3603_57d3f445-5056-a36a-0bfcf8c9c020f2a9.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/101538_3603_57d3f445-5056-a36a-0bfcf8c9c020f2a9.jpg) rgba(0, 0, 0, 0.4);
 }
 .buttoncar {
     width: 400px;
-    background: center / cover url(car.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/car.jpg) rgba(0, 0, 0, 0.4);
 }
 .button7 {
-    background: center / cover url(OIiP.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/OIiP.jpg) rgba(0, 0, 0, 0.4);
 }
 .button8 {
-    background: center / cover url(bike.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/bike.jpg) rgba(0, 0, 0, 0.4);
 }
 .button9 {
     background: center / cover url(./images/s15.jpg)rgba(0, 0, 0, 0.4);
 }
 .button10 {
-    background: center / cover url(.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/rx7.jpg) rgba(0, 0, 0, 0.4);
+}
+.button11 {
+    background: center / cover url(./images/s1000r.jpg) rgba(0, 0, 0, 0.4);
+}
+.button12 {
+    background: center / cover url(./images/H2R.jpg) rgba(0, 0, 0, 0.4);
 }
 
 .buttonpolice {
     width: 400px;
-    background: center / cover url(zazaza.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/zazaza.jpg) rgba(0, 0, 0, 0.4);
+}
+
+.buttonpolice2 {
+    width: 400px;
+    background: center / cover url(./images/police2.webp) rgba(0, 0, 0, 0.4);
 }
 .buttonruevide {
     width: 400px;
-    background: center / cover url(ruevide.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/ruevide.jpg) rgba(0, 0, 0, 0.4);
 }
 .buttonruevide2 {
     width: 400px;
-    background: center / cover url(ruevide2.jpg) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/ruevide2.jpg) rgba(0, 0, 0, 0.4);
+}
+.buttoncolor {
+    width: 400px;
+    background: center / cover url(./images/garage.jpg) rgba(0, 0, 0, 0.4);
+}
+.buttondead {
+    width: 400px;
+    background: center / cover url(./images/dead.jpg) rgba(0, 0, 0, 0.4);
+}
+.buttoncolor2 {
+    width: 400px;
+    background: center / cover url(./images/garage.jpg) rgba(0, 0, 0, 0.4);
 }
 .buttonaccident {
     width: 400px;
-    background: center / cover url(accident.webp) rgba(0, 0, 0, 0.4);
+    background: center / cover url(./images/accident.webp) rgba(0, 0, 0, 0.4);
 }
+
 
 
 .a{
@@ -136,7 +160,7 @@ body{
     position: relative;
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(R33.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(./images/R33.jpg);
     background-size: cover;
     background-position: center;
     font-family: Arial, Helvetica, sans-serif;

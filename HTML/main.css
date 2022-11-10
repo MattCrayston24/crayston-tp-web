@@ -84,6 +84,12 @@ nav .onglets a{
 .button8 {
     background: center / cover url(bike.jpg) rgba(0, 0, 0, 0.4);
 }
+.button9 {
+    background: center / cover url(./images/s15.jpg)rgba(0, 0, 0, 0.4);
+}
+.button10 {
+    background: center / cover url(.jpg) rgba(0, 0, 0, 0.4);
+}
 
 .buttonpolice {
     width: 400px;

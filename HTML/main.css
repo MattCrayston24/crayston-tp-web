@@ -96,6 +96,30 @@ nav .onglets a{
 .button12 {
     background: center / cover url(./images/H2R.jpg) rgba(0, 0, 0, 0.4);
 }
+.button13 {
+    background: center / cover url(./images/red.jpg) rgba(0, 0, 0, 0.4);
+}
+.button14 {
+    background: center / cover url(./images/green.jpg) rgba(0, 0, 0, 0.4);
+}
+.button15 {
+    background: center / cover url(./images/s15red.jpg) rgba(0, 0, 0, 0.4);
+}
+.button16 {
+    background: center / cover url(./images/s15green.jpg) rgba(0, 0, 0, 0.4);
+}
+.button17 {
+    background: center / cover url(./images/red.jpg) rgba(0, 0, 0, 0.4);
+}
+.button18 {
+    background: center / cover url(./images/green.jpg) rgba(0, 0, 0, 0.4);
+}
+.button19 {
+    background: center / cover url(./images/saw.jpg) rgba(0, 0, 0, 0.4);
+}
+.button20 {
+    background: center / cover url(./images/s1000rgreen.jpg) rgba(0, 0, 0, 0.4);
+}
 
 .buttonpolice {
     width: 400px;
